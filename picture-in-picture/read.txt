@@ -1,0 +1,20 @@
+1 - გავეცნოთ picture-in-picture  api –ს. 
+– screen capture Api -  mdn
+
+
+https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/
+https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture
+ - 
+
+2.
+html ის მომზადება სტილებით
+video tag. controls height, width hidden
+- ფონტის შემოტანა
+–height - 100 vh
+- 
+3 - js
+
+
+4
+https://github.com/tc39/proposals
+ecmascript proposals
